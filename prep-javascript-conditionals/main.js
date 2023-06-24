@@ -43,7 +43,7 @@ console.log(gradeCalculator(student2Score));
 
 const season = 'winter';
 
-function seasonMessenger(seaosn) {
+function seasonMessenger(season) {
   if (season === 'summer') {
     return "it's hot today";
   } else if (season === 'spring') {
